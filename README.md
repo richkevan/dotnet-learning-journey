@@ -23,4 +23,4 @@ I am also in conjuction with the projects I build going to use every opportunity
 I hope you will follow me adventures and cheer me on along the way
 
 ### My learning journey
-1. [csharp-hello-world](https://github.com/richkevan/csharp-learning-journey/tree/main/csharp-hello-world)
+1. [csharp-hello-world](https://github.com/richkevan/dotnet-learning-journey/tree/main/csharp-hello-world)
